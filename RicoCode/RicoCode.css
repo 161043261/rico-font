@@ -1,0 +1,72 @@
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/RicoCode-Regular.woff2') format('woff2'), url('TTF/RicoCode-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/RicoCode-Extended.woff2') format('woff2'), url('TTF/RicoCode-Extended.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/RicoCode-Italic.woff2') format('woff2'), url('TTF/RicoCode-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/RicoCode-ExtendedItalic.woff2') format('woff2'), url('TTF/RicoCode-ExtendedItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/RicoCode-Bold.woff2') format('woff2'), url('TTF/RicoCode-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2/RicoCode-ExtendedBold.woff2') format('woff2'), url('TTF/RicoCode-ExtendedBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/RicoCode-BoldItalic.woff2') format('woff2'), url('TTF/RicoCode-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Rico Code Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2/RicoCode-ExtendedBoldItalic.woff2') format('woff2'), url('TTF/RicoCode-ExtendedBoldItalic.ttf') format('truetype');
+}
