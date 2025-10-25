@@ -1,7 +1,7 @@
 # Rico Font
 
 - [Iosevka](https://github.com/be5invis/Iosevka.git)
-- [Maple Mono](git@github.com:subframe7536/maple-font.git)
+- [Maple Mono](https://github.com/subframe7536/maple-font.git)
 
 private-build-plans.toml
 
