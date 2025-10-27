@@ -1,5 +1,21 @@
 # Rico Font
 
+## Preview
+
+- Rico_1
+
+<img src="./assets/rico_1.png" alt="Rico_1" width="600"/>
+
+- Rico_2
+
+<img src="./assets/rico_2.png" alt="Rico_2" width="600"/>
+
+- [calligraphr](https://www.calligraphr.com)
+
+Contains 75 characters as following images:
+
+<img src="./assets/characters.png" alt="characters" width="600"/>
+
 - [Iosevka](https://github.com/be5invis/Iosevka.git)
 - [Maple Mono](https://github.com/subframe7536/maple-font.git)
 
@@ -52,19 +68,3 @@ css = "italic"
 menu = "italic"
 shape = "italic"
 ```
-
-- [calligraphr](https://www.calligraphr.com)
-
-Contains 75 characters as following images:
-
-<img src="./assets/characters.png" alt="characters" width="600"/>
-
-## Preview
-
-- Rico_1
-
-<img src="./assets/rico_1.png" alt="Rico_1" width="600"/>
-
-- Rico_2
-
-<img src="./assets/rico_2.png" alt="Rico_2" width="600"/>
