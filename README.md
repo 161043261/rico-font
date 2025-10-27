@@ -52,3 +52,19 @@ css = "italic"
 menu = "italic"
 shape = "italic"
 ```
+
+- [calligraphr](https://www.calligraphr.com)
+
+contain 75 characters as following images:
+
+<img src="./preview/characters.png" alt="characters" width="600"/>
+
+**preview**
+
+- Rico_1
+
+<img src="./preview/rico_1.png" alt="characters" width="600"/>
+
+- Rico_2
+
+<img src="./preview/rico_2.png" alt="characters" width="600"/>
